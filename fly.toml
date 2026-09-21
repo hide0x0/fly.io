@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for fly-io-fzesta on 2026-09-21T10:04:31Z
+# fly.toml app configuration file generated for fly-io-hidekhan0x0zz on 2026-09-21T10:13:52Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'fly-io-hidekhan110097'
+app = 'fly-io-hidekhan0x0zz'
 primary_region = 'ams'
 
 [build]
